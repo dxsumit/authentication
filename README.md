@@ -1,3 +1,19 @@
+## working screenshots
+
+<center> 
+  <div>
+      <img src="https://user-images.githubusercontent.com/58907200/229895063-04521390-4bea-48ae-9509-3a0caccd623a.png" width=30% height=30%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895033-32bf59d4-8cbc-4cb8-b304-046e332e3f7f.png" width=30% height=30%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895049-7415cc4c-49b7-422b-bbd2-d3599df78be9.png" width=30% height=30%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895054-59726052-416a-4607-bdfc-e67fe1fe4abd.png" width=30% height=15%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895058-9d3c6830-efed-4cb7-aa51-16abac8b513e.png" width=30% height=15%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895044-c7652cf2-1e35-4fa2-90a7-507198f84f0b.png" width=30% height=30%>
+      <img src="https://user-images.githubusercontent.com/58907200/229895022-c7c0bf6f-74d4-4a49-b60c-895dc8d51e5c.png" width=30% height=30%>
+  </div>
+
+</center>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
